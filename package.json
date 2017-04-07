@@ -1,0 +1,10 @@
+{
+  "name": "whatsapp-wtm",
+  "version": "0.0.1",
+  "description": "Winco Talk Manager for WhatsApp",
+  "main": "main.js",
+  "devDependencies": {
+    "electron-packager": "^8.5.0",
+    "electron": "^1.6.2"
+  }
+}
